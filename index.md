@@ -8,4 +8,4 @@
 layout: home
 ---
 
-I'm a computational photography master student, at Whuhan University. Now I'm working on MVG, MVS, and CAD System.
+I'm now working on Multi-View Geometry and 4D Reconstruction at Digital-Sky.
