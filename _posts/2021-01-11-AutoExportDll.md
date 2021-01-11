@@ -14,13 +14,13 @@ VS要求用户对每个导出函数都添加导出声明来控制Dll的导出，
 
 在使用该功能以前，需要关闭全程序优化，如果开启，OBJ文件不会包含CMAKE的必要信息。
 
-![](assets/markdown-img-paste-20210111170010999.png)
+![](https://github.com/FishHe/FishHe.GitHub.IO/tree/master/_posts/assets/markdown-img-paste-20210111170010999.png)
 
 ### 指定DEF文件
 
 在链接器中指定DEF文件来代替导出声明：
 
-![](assets/markdown-img-paste-2021011117014396.png)
+![](https://github.com/FishHe/FishHe.GitHub.IO/tree/master/_posts/assets/markdown-img-paste-2021011117014396.png)
 
 ```
 $(ProjectDir)$(ProjectName).dir/$(Configuration)/exports.def
@@ -30,7 +30,7 @@ $(ProjectDir)$(ProjectName).dir/$(Configuration)/exports.def
 
 VS2019自带的CMAKE版本满足要求，其它版本未测试。使用CMAKE自动生成DEF：
 
-![](assets/markdown-img-paste-20210111170259621.png)
+![](https://github.com/FishHe/FishHe.GitHub.IO/tree/master/_posts/assets/markdown-img-paste-20210111170259621.png)
 
 ```
 setlocal
