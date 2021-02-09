@@ -36,8 +36,8 @@ VS2019自带的CMAKE版本满足要求，其它版本未测试。使用CMAKE自�
 setlocal
 cd /d "$(ProjectDir)"
 echo "$(ProjectDir)$(ProjectName).dir/$(Configuration)"
+rd /s/q "$(ProjectDir)$(ProjectName).dir/$(Configuration)"
 md "$(ProjectDir)$(ProjectName).dir/$(Configuration)"
-del "$(ProjectDir)$(ProjectName).dir/$(Configuration)/objects.txt"
 echo "$(ProjectDir)"
 for /R "$(ProjectDir)" %%f in (*.obj) do (
 echo %%f > "$(ProjectDir)$(ProjectName).dir/$(Configuration)/objects.txt"
