@@ -1,13 +1,25 @@
 ---
 layout: page
-title: About
+title: Curriculum Vitae
 tagline: A few more words about this theme
 permalink: /about.html
 ---
 
-This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
 
-You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
+## Professional Skills
+
+* C++
+* Python
+* CUDA
+* Multi-View Geometry
+* Multi-View Stereo
+* Marker-Based Motion Capture
+
+## Education and Working
+
+* **2013-09-01 to 2017-06-30** 武汉大学测绘学院 本科
+* **2017-09-01 to 2020-06-30** 武汉大学测绘学院 硕士
+* **2020-07-01 to now** 成都数字天空
 
 
 [Go to the Home Page]({{ site.url }}{{ site.baseurl }})
