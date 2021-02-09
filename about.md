@@ -5,6 +5,9 @@ tagline: A few more words about this theme
 permalink: /about.html
 ---
 
+I am looking for a doctoral supervisor. If you are interested in my research work, please contact me by email.
+
+我正在寻找博士生导师，如果您对我的研究工作有兴趣，请戳我的邮箱。
 
 ## Professional Skills
 

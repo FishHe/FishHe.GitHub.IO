@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Contact
-tagline: Create a contact form and you are good to go
+tagline: zhangdengsu@163.com
 ---
 
-Jekyll is a great tool to create static sites but with static site, there's no backend to send your data to: that is why it's hard to put a form on a Jekyll site.
+I am looking for a doctoral supervisor. If you are interested in my research work, please contact me by email.
 
-Here listed some resources which provide  a saas service as a backend for forms (contact forms, hiring forms, etc.) to designers and developers like you:
-1. [Formspree (also open source, free)](https://formspree.io/)
-2. [FormKeep](https://formkeep.com/guides/contact-form-jekyll)
-3. [Simple Form](https://getsimpleform.com/)
+我正在寻找博士生导师，如果您对我的研究工作有兴趣，请戳我的邮箱。
 
-[Go to the Home Page]({{ site.url }}{{ site.baseurl }})
+* E-Mail: zhangdengsu@163.com
+* WeChat: zds94502
+* QQ: 811891402
+* TEL: +86 15927096603
